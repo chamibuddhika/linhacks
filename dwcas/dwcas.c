@@ -41,7 +41,7 @@ int main()
     uint128_t with = { 0x55555555, 0xaaaaaaaa };
 
     bool result = dwcas_v1(&test, cmp, with );
-    fprintf(stdout, "Handwritten CAS boolean result esult is : %d\n", result);
+    fprintf(stdout, "Handwritten CAS boolean result result is : %d\n", result);
 
     __int128 a = 1;
     __int128 b = a;
