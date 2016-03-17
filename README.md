@@ -3,7 +3,7 @@ linhacks
 
 Assortment of various Linux hacks and code snippets.
 
- dwcas.c - Double width compare and swap (CAS) examples
+ dwcas - Double width compare and swap (CAS) examples
  lkm     - Linux kernel module for setting debug registers
  ldriver - Linux driver
  readelf - Read elf debug symbols
